@@ -62,5 +62,6 @@ MDADYOLO/
 └── ...                      # Other project files
 ```
 
-If you require the full dataset or source code, please contact the first author.
+
+If you need the model source code, please contact fjnuhyk@163.com.
 
